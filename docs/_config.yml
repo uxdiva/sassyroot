@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Sassy Root
+baseurl: "/sassyroot"
+url: "https://uxdiva.github.io/sassyroot/"
+plugins:
+  - jekyll-feed
