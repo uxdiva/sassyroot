@@ -1,6 +1,6 @@
-----
+---
 layout: home
-----
+---
 
 ## The Latest
 <ul>
