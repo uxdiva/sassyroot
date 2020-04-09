@@ -1,3 +1,7 @@
+----
+layout: home
+----
+
 ## The Latest
 <ul>
   {% for post in site.posts %}
